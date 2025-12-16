@@ -1,7 +1,5 @@
 # 🏥 ConsultaVAG - Sistema de Regulação Ambulatorial
 
-![Status](https://img.shields.io/badge/Status-Análise_e_Projeto-blue) ![Metodologia](https://img.shields.io/badge/Metodologia-RUP-orange) ![Instituição](https://img.shields.io/badge/Instituição-UPE-red)
-
 ## 📋 Sobre o Projeto
 
 O **ConsultaVAG** é um sistema digital projetado para substituir o processo manual de regulação ambulatorial da **Secretaria Estadual de Saúde (SES)**.
